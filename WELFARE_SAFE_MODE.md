@@ -84,3 +84,9 @@ Penge I sparer i jeres private husholdning, fordi foreningen betaler.
 Dette er den "skjulte løn", som systemet genererer. I får adgang til ressourcer svarende til en fuldtidsløn, men juridisk er I "fattige" kontanthjælpsmodtagere.
 
 > **VIGTIGT:** For at nå dette potentiale kræves det, at I aktivt søger fonde og §18 midler. Pengene kommer ikke af sig selv; strukturen muliggør blot modtagelsen uden straf.
+
+## 📚 Legal Reference & Ressourcer
+
+For dybdegående information om lovgrundlaget, relevante paragraffer og keywords til jeres ansøgninger, se venligst:
+
+*   [Legal Reference Library](knowledge_base/legal_reference_library.md) - En database over §18, Socialfrikort, og succesfulde støttesager.
