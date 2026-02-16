@@ -90,3 +90,4 @@ Dette er den "skjulte løn", som systemet genererer. I får adgang til ressource
 For dybdegående information om lovgrundlaget, relevante paragraffer og keywords til jeres ansøgninger, se venligst:
 
 *   [Legal Reference Library](knowledge_base/legal_reference_library.md) - En database over §18, Socialfrikort, og succesfulde støttesager.
+*   [Rights Framework](knowledge_base/rights_framework.md) - Et overblik over medlemmernes rettigheder (IPR, Data, Økonomi).
