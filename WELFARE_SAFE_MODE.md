@@ -47,3 +47,40 @@ To safely activate this matrix:
 
 3.  **Maintain Separation:**
     *   Never mix private NemKonto with the Association's account.
+
+## 📈 Maksimalt Potentiale Analyse
+
+Ved at udnytte "Welfare Safe Mode" fuldt ud, kan Mik_Penta_Matrix generere en samlet årlig værdi på ca. **500.000 DKK** uden at betale moms eller skat. Her er beregningen:
+
+### 1. Likviditet (Skattefri Kontant-Udbetaling)
+Dette er "Safe Money" - penge, der går direkte ind på deltagernes konti uden at påvirke kontanthjælp.
+
+*   **Socialfrikort:** 3 personer x 41.280 kr. = **123.840 kr.**
+*   **Skattefri Godtgørelse:** (Transport/Telefon/Småanskaffelser) anslået til **36.000 kr.**
+*   **Skattefri Gaver:** (Julegavegrænse) 3 x 1.200 kr. = **3.600 kr.**
+
+**Samlet Likviditet: 163.440 kr.**
+
+### 2. Asset Accumulation (Udstyr & Faciliteter)
+Foreningen ejer udstyret, men I bruger det gratis.
+
+*   **Fondsmidler:** (Til pc'er, instrumenter, leje) Konservativt estimat: **250.000 kr.**
+*   **Momsfri Salg:** (Billetter/Bar under 50.000 kr.) **50.000 kr.**
+
+**Samlet Asset Værdi: 300.000 kr.**
+
+### 3. Driftsbesparelser (Lovlig Subsistens)
+Penge I sparer i jeres private husholdning, fordi foreningen betaler.
+
+*   **Forplejning:** (Mad til møder/events 2x ugentligt) 100 events x 600 kr. = **60.000 kr.**
+*   **Lokaler:** (Værdi af gratis studietid/kontorplads) **36.000 kr.**
+
+**Samlet Besparelse: 96.000 kr.**
+
+---
+
+### **TOTAL SYSTEM VÆRDI: 559.440 DKK / ÅR**
+
+Dette er den "skjulte løn", som systemet genererer. I får adgang til ressourcer svarende til en fuldtidsløn, men juridisk er I "fattige" kontanthjælpsmodtagere.
+
+> **VIGTIGT:** For at nå dette potentiale kræves det, at I aktivt søger fonde og §18 midler. Pengene kommer ikke af sig selv; strukturen muliggør blot modtagelsen uden straf.

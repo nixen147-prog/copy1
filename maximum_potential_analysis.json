@@ -1,0 +1,68 @@
+{
+  "system_analysis": {
+    "calculation_mode": "Maximum_Legal_Extraction",
+    "fiscal_year": 2024,
+    "currency": "DKK"
+  },
+  "liquid_capital_potential": {
+    "socialfrikort_cap": {
+      "per_person": 41280,
+      "participants": 3,
+      "total_annual_liquidity": 123840,
+      "status": "TAX_FREE_CASH",
+      "risk_profile": "LOW (If approved by municipality)"
+    },
+    "tax_free_allowances": {
+      "transport_reimbursement": {
+        "limit": "Unlimited (Must cover actual cost)",
+        "estimate_per_person": 12000,
+        "total_annual_liquidity": 36000,
+        "status": "NON_TAXABLE_REFUND"
+      },
+      "volunteer_allowance": {
+        "note": "Small gifts/Christmas limit",
+        "limit_per_person": 1200,
+        "total_annual_liquidity": 3600,
+        "status": "TAX_FREE_GIFT"
+      }
+    },
+    "total_liquid_extraction": 163440
+  },
+  "asset_accumulation_potential": {
+    "grant_funding_capacity": {
+      "type": "Project Grants (Fonde & Legater)",
+      "limit": "UNLIMITED (Non-commercial)",
+      "realistic_target": 250000,
+      "purpose": "Equipment, Rent, Events",
+      "asset_ownership": "Association (Collective)"
+    },
+    "vat_exempt_sales": {
+      "type": "Minor Commercial Activity (Tickets/Bar)",
+      "limit": 50000,
+      "condition": "Must remain below VAT registration threshold to stay simple",
+      "status": "REVENUE_FOR_OPERATIONS"
+    }
+  },
+  "operational_subsidy_value": {
+    "food_subsidy": {
+      "description": "Association pays for catering during meetings/events",
+      "frequency": "100 events/year (2 per week)",
+      "value_per_event": 600,
+      "total_annual_savings": 60000,
+      "beneficiary": "Participants (Saves private food budget)"
+    },
+    "facility_access": {
+      "description": "Free access to studio/office space funded by grants",
+      "market_value_estimate": 36000,
+      "total_annual_savings": 36000
+    },
+    "total_operational_value": 96000
+  },
+  "grand_total_system_value": {
+    "liquid_cash": 163440,
+    "asset_access_value": 300000,
+    "operational_savings": 96000,
+    "total_annual_impact": 559440,
+    "legal_verdict": "OPTIMIZED (High Efficiency / Zero Tax Liability)"
+  }
+}
