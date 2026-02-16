@@ -1,0 +1,70 @@
+{
+  "system_name": "Mik_Penta_Welfare_Safe_Mode",
+  "legal_wrapper": {
+    "entity_type": "Frivillig Forening (Non-Profit)",
+    "cvr_mode": "Frivillig registrering (Ingen moms)",
+    "primary_asset_holder": "Foreningen (Kollektivt Ejerskab)",
+    "compliance_lock": "NO_SALARY_PAYOUTS_TO_BOARD",
+    "risk_mitigation": "External_Chairman_Recommended"
+  },
+  "resource_mechanics": {
+    "input_streams": {
+      "source_A": {
+        "type": "§18 Midler (Serviceloven)",
+        "purpose": "Frivilligt socialt arbejde",
+        "tax_status": "Exempt (Skattefri for foreningen)"
+      },
+      "source_B": {
+        "type": "Private Fonde & Legater",
+        "purpose": "Kultur & Udsatte",
+        "tax_status": "Exempt"
+      }
+    },
+    "value_conversion_logic": {
+      "rule_1": "Convert Cash to Assets (Buy Gear, not Salary)",
+      "rule_2": "Convert Cash to Experiences (Events, Trips)",
+      "rule_3": "Convert Cash to Consumables (Food/Meeting catering)"
+    }
+  },
+  "participant_optimization": {
+    "mik_unit": {
+      "role": "Kunstnerisk Leder (Frivillig)",
+      "welfare_status": "Kontanthjælp",
+      "optimization": {
+        "socialfrikort": {
+          "active": "REQUIRES_MUNICIPAL_APPROVAL",
+          "limit": "41.280 DKK/year (Tax-free, no deduction)",
+          "action": "Receive honorarium via Socialfrikort system"
+        },
+        "asset_access": "Full use of Association's Studio/Instruments",
+        "perks": "Transportgodtgørelse (Bus/Tog til aktiviteter)"
+      }
+    },
+    "sofie_unit": {
+      "role": "Vært & Køkken (Frivillig)",
+      "welfare_status": "Kontanthjælp",
+      "optimization": {
+        "socialfrikort": {
+          "active": "REQUIRES_MUNICIPAL_APPROVAL",
+          "limit": "41.280 DKK/year",
+          "action": "Receive honorarium for cooking/hosting"
+        },
+        "consumables": "Foreningen betaler råvarer til fællesspisning (Sofie spiser gratis)",
+        "internet_phone": "Kan dækkes (Telefontilskud) hvis kritisk for hvervet"
+      }
+    },
+    "tomas_unit": {
+      "role": "Admin & System (Frivillig)",
+      "welfare_status": "Kontanthjælp",
+      "optimization": {
+        "socialfrikort": {
+          "active": "REQUIRES_MUNICIPAL_APPROVAL",
+          "limit": "41.280 DKK/year",
+          "action": "Receive honorarium for administration/cleaning"
+        },
+        "tech_access": "Full use of Association's Laptop/Software",
+        "education": "Kurser/Licenser betalt af foreningen"
+      }
+    }
+  }
+}
