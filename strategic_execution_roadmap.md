@@ -7,8 +7,11 @@ This roadmap outlines the necessary steps to realize the maximum potential value
 **Goal:** Establish the legal entity and secure compliance.
 
 1.  **Entity Formation:**
-    *   **Action:** Register "Frivillig Forening" with CVR (Danish Business Register).
+    *   **Action:** Hold "Stiftende Generalforsamling" and register "Frivillig Forening" with CVR (Danish Business Register).
     *   **Status:** *Pending*.
+    *   **Tools:**
+        *   [Vedtægter Template](templates/association_statutes.md) - Use this for the association's legal statutes.
+        *   [Referat af Stiftende Generalforsamling](templates/founding_minutes.md) - Use this to document the founding meeting.
     *   **Constraint:** Ensure "Ingen moms" (No VAT) registration.
     *   **Deliverable:** CVR Number.
 
@@ -29,7 +32,7 @@ This roadmap outlines the necessary steps to realize the maximum potential value
 
 1.  **Municipal Approval (Visitation):**
     *   **Action:** Each member (Mik, Sofie, Tomas) contacts their caseworker.
-    *   **Script:** "Jeg ønsker at blive visiteret til Socialfrikortet grundet [social/psychological/housing] udfordringer."
+    *   **Script:** Use the [Visitation Script](templates/visitation_script.md) to prepare for the meeting.
     *   **Target:** Approval letter within 4 weeks.
 
 2.  **Socialfrikort Registration:**
