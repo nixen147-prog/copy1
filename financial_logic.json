@@ -1,0 +1,58 @@
+{
+  "financial_logic": {
+    "revenue_streams": {
+      "stream_A": {
+        "type": "Artistic_Sales",
+        "vat_status": "Exempt (0%)",
+        "source": ["Concerts", "Film_Screenings", "Art_Grants"],
+        "owner": "mik_core"
+      },
+      "stream_B": {
+        "type": "Commercial_Services",
+        "vat_status": "Liable (25%)",
+        "source": ["Workshops", "Consulting", "Event_Coordination"],
+        "owner": "mik_core (via Tomas/Sofie execution)"
+      }
+    },
+    "expense_optimization_algo": {
+      "deduction_rules": [
+        {
+          "category": "Catering/Food",
+          "condition": "Event_Product_Development",
+          "deduction_rate": 1.0,
+          "performer": "sofie_platform"
+        },
+        {
+          "category": "Travel/Transport",
+          "condition": "Network_Research_&_Gigs",
+          "deduction_rate": 1.0,
+          "performer": "mik_core | tomas_backend"
+        },
+        {
+          "category": "Tech_Hardware",
+          "condition": "Production_Essential",
+          "deduction_rate": 1.0,
+          "vat_deduction": "Partial (Split-Moms)"
+        }
+      ]
+    },
+    "tax_engine": {
+      "model": "Virksomhedsskatteordningen (VSO)",
+      "logic": [
+        "IF (Net_Profit > Top_Tax_Limit) THEN (Retain_Surplus_in_VSO @ 22%)",
+        "ELSE (Pay_Salary_to_Limit)",
+        "Liquidity_Extraction = (Tax_Free_Mileage + Tax_Free_Diets)"
+      ]
+    },
+    "distribution_protocol": {
+      "step_1": "Deduct_External_Costs (Venue, Materials)",
+      "step_2": "Deduct_Overhead_Buffer (15%)",
+      "step_3": "Split_Net_Profit",
+      "ratios": {
+        "mik_core": 0.50,
+        "tomas_backend": 0.25,
+        "sofie_platform": 0.25
+      }
+    }
+  }
+}

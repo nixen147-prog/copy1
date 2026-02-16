@@ -1,0 +1,68 @@
+{
+  "system_name": "Mik_CVR_Penta_Matrix",
+  "entities": [
+    {
+      "id": "mik_core",
+      "role": "Product_Generator",
+      "type": "Performer/Non-Energy",
+      "mechanics": {
+        "prime_mover": "Gate 12 (The Stop Codon)",
+        "secondary": "Gate 11 (Ideas)",
+        "strategy": "Wait_for_Mood",
+        "work_cycle": "Burst_Mode"
+      },
+      "constraints": {
+        "continuous_labor": false,
+        "admin_tolerance": "Low",
+        "requires_isolation": true
+      },
+      "assets": [
+        "Musik_Komposition",
+        "Visuel_Storytelling",
+        "Performance"
+      ],
+      "source_ref": "mik.md"
+    },
+    {
+      "id": "sofie_platform",
+      "role": "Interface_Manager",
+      "type": "Projector",
+      "mechanics": {
+        "authority": "Splenic (Intuition/Veto)",
+        "profile": "1/3 (Investigator/Martyr)",
+        "channel": "28-38 (Struggle_for_Purpose)",
+        "gate": "7 (Direction)"
+      },
+      "constraints": {
+        "physical_stamina": "Low (Non-Sacral)",
+        "requires_invitation": true
+      },
+      "assets": [
+        "Hedehusene_Space",
+        "Social_Dining_Concept",
+        "Community_Trust"
+      ],
+      "source_ref": "sofie.md & sofie_prompt_analysis"
+    },
+    {
+      "id": "tomas_backend",
+      "role": "System_Architect",
+      "type": "Projector",
+      "mechanics": {
+        "pressure": "Root (Adrenalized)",
+        "gates": ["38 (Fighter)", "39 (Provocateur)"],
+        "function": "Optimization_&_Quality_Control"
+      },
+      "constraints": {
+        "initiation_without_invite": "Bitter_Result",
+        "repetitive_tasks": "Burnout_Risk"
+      },
+      "assets": [
+        "Workflow_Optimization",
+        "Legal_Research",
+        "Financial_Structure"
+      ],
+      "source_ref": "tomas.md"
+    }
+  ]
+}
