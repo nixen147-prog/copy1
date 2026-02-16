@@ -91,3 +91,4 @@ For dybdegående information om lovgrundlaget, relevante paragraffer og keywords
 
 *   [Legal Reference Library](knowledge_base/legal_reference_library.md) - En database over §18, Socialfrikort, og succesfulde støttesager.
 *   [Rights Framework](knowledge_base/rights_framework.md) - Et overblik over medlemmernes rettigheder (IPR, Data, Økonomi).
+*   [Special Opportunities](knowledge_base/special_opportunities.md) - Avancerede strategier for vækst (Fleksjob, Partnerskaber, Mikrovirksomhed).
