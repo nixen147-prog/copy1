@@ -1,0 +1,50 @@
+{
+  "fiscal_year": 2024,
+  "limit_per_person": 41280,
+  "participants": {
+    "mik_unit": {
+      "name": "Mik",
+      "status": "APPROVED",
+      "transactions": [
+        {
+          "date": "2024-01-31",
+          "description": "Honorarium: January Music Workshop",
+          "amount": 3440,
+          "balance_remaining": 37840
+        }
+      ],
+      "total_earned": 3440
+    },
+    "sofie_unit": {
+      "name": "Sofie",
+      "status": "APPROVED",
+      "transactions": [
+        {
+          "date": "2024-01-31",
+          "description": "Honorarium: January Catering & Hosting",
+          "amount": 3440,
+          "balance_remaining": 37840
+        }
+      ],
+      "total_earned": 3440
+    },
+    "tomas_unit": {
+      "name": "Tomas",
+      "status": "APPROVED",
+      "transactions": [
+        {
+          "date": "2024-01-31",
+          "description": "Honorarium: January Administration & Cleaning",
+          "amount": 3440,
+          "balance_remaining": 37840
+        }
+      ],
+      "total_earned": 3440
+    }
+  },
+  "compliance_check": {
+    "all_under_limit": true,
+    "total_liquid_payout": 10320,
+    "system_status": "SAFE"
+  }
+}
