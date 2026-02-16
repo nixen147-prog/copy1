@@ -12,6 +12,7 @@ This roadmap outlines the necessary steps to realize the maximum potential value
     *   **Tools:**
         *   [Vedtægter Template](templates/association_statutes.md) - Use this for the association's legal statutes.
         *   [Referat af Stiftende Generalforsamling](templates/founding_minutes.md) - Use this to document the founding meeting.
+        *   [Association Profile](association_profile_detailed.md) - Use this as the "Whitepaper" or "Business Plan" for the bank and municipality.
     *   **Constraint:** Ensure "Ingen moms" (No VAT) registration.
     *   **Deliverable:** CVR Number.
 
